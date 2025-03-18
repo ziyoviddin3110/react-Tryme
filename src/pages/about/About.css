@@ -1,0 +1,152 @@
+
+.about_bg{
+    background-color: #F6E6CD;
+    height: 500px;
+}
+.text_about{
+    text-align: center;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+.text_about h1{
+font-size: 50px;
+}
+
+.about_cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 0;
+}
+.about_card{
+    width: 500px;
+}
+
+.about_card h1{
+    font-size: 38px;
+}
+
+.about_card p{
+    padding: 20px 0;
+}
+.about_imgs{
+    width: 500px;
+    height: 500px;
+}
+.about_imgs img{
+    width: 100%;
+    height: 100%;
+}
+
+.teom_text h1{
+font-size: 40px;
+padding: 15px 0;
+}
+
+.teom_cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0;
+
+}
+.teom_card{
+    width: 300px;
+   
+}
+
+.teom_card h2{
+    padding-top: 15px;
+}
+.teom_card p{
+    padding: 15px 0;
+}
+
+.team_icons{
+    display: flex;align-items: center;
+    gap:15px ;
+}
+.teom_leftt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.radiuss{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.radiuss span{
+    width: 15px ;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgb(228, 155, 88);
+}
+.radiuss span:nth-child(1){
+    background-color: #f0660f;
+}
+.rigtx_left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.left, .rigtx{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 132, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+    font-size: 20px;
+}
+
+.rigtx:hover{
+    background-color: rgb(255, 140, 0);
+    color: white;
+}
+.left:hover{
+    background-color: rgb(255, 140, 0);
+    color: white;
+}
+.currstrome{
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 0;
+    text-align: center;
+ 
+
+}
+
+.currstrome p{
+    padding: 20px 0;
+}
+.name_about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgssss{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.imgs_textt p{
+padding: 5px;
+}
+.name_about span{
+    width: 2px;
+    height: 55px ;
+    background-color: rgb(227, 131, 52);
+}

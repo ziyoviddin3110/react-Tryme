@@ -1,0 +1,42 @@
+
+
+.trading_cards{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+    list-style: none;
+}
+.trading_card{
+    width: 250px;
+    border: 1px solid rgb(110, 109, 109);
+    border-radius: 10px;
+    padding: 15px;
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+}
+
+.trading_card img{
+    width: 100%;
+    height: 250px;
+    padding-bottom: 20px;
+}
+
+
+.trading_card p{
+    padding: 8px 0;
+}
+
+.trading_card:hover {
+    background-color: orange;
+    border: 1px solid orange;
+    transform: translateY(-10px); 
+    box-shadow: 10px 15px  10px 10px rgba(128, 128, 128, 0.396);
+}
+.trading_cards a{
+ outline: none;
+ text-decoration: none;
+ color: black;
+}
