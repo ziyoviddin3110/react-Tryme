@@ -8,7 +8,7 @@ function Navbar() {
         <div className="container">
           <div className="logo">
       
-            <NavLink to="/">      <img src="/public/imgs/Logo PNG 1.svg" alt="" /></NavLink>
+            <NavLink to="/">      <img src="/imgs/Logo PNG 1.svg" alt="" /></NavLink>
            <div className="logo_links">
            <ul className="nav-list">
         <li>

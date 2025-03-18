@@ -43,7 +43,7 @@ function About() {
                 </p>
               </div>
               <div className="about_imgs">
-                <img src="/public/imgs/Image.png" alt="" />
+                <img src="/imgs/Image.png" alt="" />
               </div>
             </div>
           </div>
@@ -58,7 +58,7 @@ function About() {
 
             <div className="teom_cards">
               <div className="teom_card">
-                <img src="/public/imgs/Image.svg" alt="" />
+                <img src="/imgs/Image.svg" alt="" />
                 <h2>Full name</h2>
                 <h3>Job title</h3>
                 <p>
@@ -66,13 +66,13 @@ function About() {
                   Suspendisse varius enim in eros elementum tristique.
                 </p>
                 <div className="team_icons">
-                  <img src="/public/imgs/LinkedIn.png" alt="" />
-                  <img src="/public/imgs/Twitter.png" alt="" />
-                  <img src="/public/imgs/Dribble.png" alt="" />
+                  <img src="/imgs/LinkedIn.png" alt="" />
+                  <img src="/imgs/Twitter.png" alt="" />
+                  <img src="/imgs/Dribble.png" alt="" />
                 </div>
               </div>
               <div className="teom_card">
-                <img src="/public//imgs/Image1.png" alt="" />
+                <img src="//imgs/Image1.png" alt="" />
                 <h2>Full name</h2>
                 <h3>Job title</h3>
                 <p>
@@ -80,13 +80,13 @@ function About() {
                   Suspendisse varius enim in eros elementum tristique.
                 </p>
                 <div className="team_icons">
-                  <img src="/public/imgs/LinkedIn.png" alt="" />
-                  <img src="/public/imgs/Twitter.png" alt="" />
-                  <img src="/public/imgs/Dribble.png" alt="" />
+                  <img src="/imgs/LinkedIn.png" alt="" />
+                  <img src="/imgs/Twitter.png" alt="" />
+                  <img src="/imgs/Dribble.png" alt="" />
                 </div>
               </div>
               <div className="teom_card">
-                <img src="/public/imgs/Image2.png" alt="" />
+                <img src="/imgs/Image2.png" alt="" />
                 <h2>Full name</h2>
                 <h3>Job title</h3>
                 <p>
@@ -94,13 +94,13 @@ function About() {
                   Suspendisse varius enim in eros elementum tristique.
                 </p>
                 <div className="team_icons">
-                  <img src="/public/imgs/LinkedIn.png" alt="" />
-                  <img src="/public/imgs/Twitter.png" alt="" />
-                  <img src="/public/imgs/Dribble.png" alt="" />
+                  <img src="/imgs/LinkedIn.png" alt="" />
+                  <img src="/imgs/Twitter.png" alt="" />
+                  <img src="/imgs/Dribble.png" alt="" />
                 </div>
               </div>
               <div className="teom_card">
-                <img src="/public/imgs/Image3.png" alt="" />
+                <img src="/imgs/Image3.png" alt="" />
                 <h2>Full name</h2>
                 <h3>Job title</h3>
                 <p>
@@ -108,9 +108,9 @@ function About() {
                   Suspendisse varius enim in eros elementum tristique.
                 </p>
                 <div className="team_icons">
-                  <img src="/public/imgs/LinkedIn.png" alt="" />
-                  <img src="/public/imgs/Twitter.png" alt="" />
-                  <img src="/public/imgs/Dribble.png" alt="" />
+                  <img src="/imgs/LinkedIn.png" alt="" />
+                  <img src="/imgs/Twitter.png" alt="" />
+                  <img src="/imgs/Dribble.png" alt="" />
                 </div>
               </div>
             </div>
@@ -137,7 +137,7 @@ function About() {
         <section>
           <div className="container">
             <div className="currstrome">
-              <img src="/public/imgs/Stars.svg" alt="" />
+              <img src="/imgs/Stars.svg" alt="" />
               <p>
                 "A customer testimonial that highlights features and answers
                 potential customer doubts about your product or service.
@@ -147,7 +147,7 @@ function About() {
               <div className="name_about">
                 <div className="imgs_aboutt">
                   <div className="imgssss">
-                    <img src="/public//imgs/Image1.png" alt="" />
+                    <img src="//imgs/Image1.png" alt="" />
                     <div className="imgs_textt">
                       <h2>Name Surname</h2>
                       <p>Position, Company name</p>
@@ -155,7 +155,7 @@ function About() {
                   </div>
                 </div>
                 <span></span>
-                <img src="/public/imgs/Logo PNG 1.svg" alt="" />
+                <img src="/imgs/Logo PNG 1.svg" alt="" />
               </div>
             </div>
           </div>

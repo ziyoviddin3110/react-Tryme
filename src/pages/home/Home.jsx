@@ -46,7 +46,7 @@ function Home({data}) {
                     <div className="container">
                         <div className="log_cards">
                             <div className="log_card_imgs">
-                                <img src="/public/imgs/long.png" alt="" />
+                                <img src="/imgs/long.png" alt="" />
                             </div>
                             <div className="log_card">
                                 <h1>Long heading is what you see here in this feature section</h1>

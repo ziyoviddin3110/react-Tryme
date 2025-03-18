@@ -30,7 +30,7 @@ function Contact() {
               <button className="contact_btn">Submit</button>
             </div>
             <div className="contact_imgs">
-              <img src="/public/imgs/Image-contact.png" alt="" />
+              <img src="/imgs/Image-contact.png" alt="" />
             </div>
           </div>
         </div>
@@ -45,11 +45,11 @@ function Contact() {
               </p>
             </div>
             <div className="pors_img">
-                <img src="/public/imgs/Vector.png" alt="" />
-                <img src="/public/imgs/Black.png" alt="" />
-                <img src="/public/imgs/Vector.png" alt="" />
-                <img src="/public/imgs/Black.png" alt="" />
-                <img src="/public/imgs/Vector.png" alt="" />
+                <img src="/imgs/Vector.png" alt="" />
+                <img src="/imgs/Black.png" alt="" />
+                <img src="/imgs/Vector.png" alt="" />
+                <img src="/imgs/Black.png" alt="" />
+                <img src="/imgs/Vector.png" alt="" />
 
 
 
@@ -61,19 +61,19 @@ function Contact() {
         <div className="container">
             <div className="oficce_cards">
                 <div className="oficce_card">
-                    <img src="/public/imgs/Vector1.svg" alt="" />
+                    <img src="/imgs/Vector1.svg" alt="" />
                     <h1>Email</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.</p>
                     <a href="#">hello@relume.io</a>
                 </div>
                 <div className="oficce_card">
-                    <img src="/public/imgs/Vector.svg" alt="" />
+                    <img src="/imgs/Vector.svg" alt="" />
                     <h1>Live chat</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.</p>
                     <a href="#">Start new chat</a>
                 </div>
                 <div className="oficce_card">
-                    <img src="/public/imgs/Vector2.svg" alt="" />
+                    <img src="/imgs/Vector2.svg" alt="" />
                     <h1>
                         Phone
                     </h1>
@@ -81,7 +81,7 @@ function Contact() {
                     <a href="#">+1 (555) 000-0000</a>
                 </div>
                 <div className="oficce_card">
-                    <img src="/public/imgs/Vector3.svg" alt="" />
+                    <img src="/imgs/Vector3.svg" alt="" />
                     <h1>Office</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.</p>
                     <a href="#">123 Sample St, Sydney NSW 2000 AU</a>

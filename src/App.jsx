@@ -16,12 +16,12 @@ function App() {
     {
       id: 0,
       imgs: [
-        "/public/imgs/imgs1.webp",
-        "/public/imgs/imgs2.webp",
-        "/public/imgs/imgs3.webp",
-        "/public/imgs/imgs4.webp",
+        "/imgs/imgs1.webp",
+        "/imgs/imgs2.webp",
+        "/imgs/imgs3.webp",
+        "/imgs/imgs4.webp",
       ],
-      img: "/public/imgs/imgs1.webp",
+      img: "/imgs/imgs1.webp",
       titel: "Polyester Plain Blue and Black Boys College Bag",
       price: "350",
       deskrip:
@@ -30,12 +30,12 @@ function App() {
     {
       id: 1,
       imgs: [
-        "/public/imgs/imgs5.webp",
-        "/public/imgs/imgs6.webp",
-        "/public/imgs/imgs7.jpg",
-        "/public/imgs/imgs8.jpg",
+        "/imgs/imgs5.webp",
+        "/imgs/imgs6.webp",
+        "/imgs/imgs7.jpg",
+        "/imgs/imgs8.jpg",
       ],
-      img: "/public/imgs/imgs6.webp",
+      img: "/imgs/imgs6.webp",
       titel: "Travel Bag 24  Large Capacity Simple Travel Bag",
       price: "300",
       deskrip:
@@ -44,12 +44,12 @@ function App() {
     {
       id: 2,
       imgs: [
-        "/public/imgs/imgs9.jpg",
-        "/public/imgs/imgs10.webp",
-        "/public/imgs/imgs11.jpg",
-        "/public/imgs/imgs12.jpg",
+        "/imgs/imgs9.jpg",
+        "/imgs/imgs10.webp",
+        "/imgs/imgs11.jpg",
+        "/imgs/imgs12.jpg",
       ],
-      img: "/public/imgs/imgs9.jpg",
+      img: "/imgs/imgs9.jpg",
       titel: "Drawstring Bag Royal Blue",
       price: "250",
       deskrip:
@@ -58,12 +58,12 @@ function App() {
     {
       id: 3,
         imgs: [
-          "/public/imgs/imgs13.webp",
-          "/public/imgs/imgs14.webp",
-          "/public/imgs/imgs15.webp",
-          "/public/imgs/imgs16.webp",
+          "/imgs/imgs13.webp",
+          "/imgs/imgs14.webp",
+          "/imgs/imgs15.webp",
+          "/imgs/imgs16.webp",
         ],
-        img: "/public/imgs/imgs13.webp",
+        img: "/imgs/imgs13.webp",
         titel: "Смартфон Samsung Galaxy A55 8/256 Awesome Navy",
         price: "400",
         deskrip:
@@ -72,12 +72,12 @@ function App() {
       {
         id: 4,
         imgs: [
-          "/public/imgs/imgs17.webp",
-          "/public/imgs/imgs18.webp",
-          "/public/imgs/imgs19.webp",
-          "/public/imgs/imgs18.webp",
+          "/imgs/imgs17.webp",
+          "/imgs/imgs18.webp",
+          "/imgs/imgs19.webp",
+          "/imgs/imgs18.webp",
         ],
-        img: "/public/imgs/imgs17.webp",
+        img: "/imgs/imgs17.webp",
         titel: "Беспроводные наушники ANC Airpods Pro 2",
         price: "159",
         deskrip:
@@ -86,12 +86,12 @@ function App() {
       {
         id: 5,
         imgs: [
-          "/public/imgs/imgs20.webp",
-          "/public/imgs/imgs21.webp",
-          "/public/imgs/imgs22.webp",
-          "/public/imgs/imgs23.webp",
+          "/imgs/imgs20.webp",
+          "/imgs/imgs21.webp",
+          "/imgs/imgs22.webp",
+          "/imgs/imgs23.webp",
         ],
-        img: "/public/imgs/imgs20.webp",
+        img: "/imgs/imgs20.webp",
         titel: "Беспроводные Наушники Samsung Galaxy Buds 2 Pro чёрный",
         price: "350",
         deskrip:
@@ -100,12 +100,12 @@ function App() {
       {
         id: 6,
         imgs: [
-          "/public/imgs/imgs24.png",
-          "/public/imgs/imgs25.png",
-          "/public/imgs/imgs26.png",
-          "/public/imgs/imgs27.png",
+          "/imgs/imgs24.png",
+          "/imgs/imgs25.png",
+          "/imgs/imgs26.png",
+          "/imgs/imgs27.png",
         ],
-        img: "/public/imgs/imgs24.png",
+        img: "/imgs/imgs24.png",
         titel: "Смартфон Honor X9C 8/256 Jade Cyan",
         price: "450",
         deskrip:
@@ -114,12 +114,12 @@ function App() {
       {
         id: 7,
         imgs: [
-          "/public/imgs/imgs28.webp",
-          "/public/imgs/imgs29.webp",
-          "/public/imgs/imgs30.webp",
-          "/public/imgs/imgs31.webp",
+          "/imgs/imgs28.webp",
+          "/imgs/imgs29.webp",
+          "/imgs/imgs30.webp",
+          "/imgs/imgs31.webp",
         ],
-        img: "/public/imgs/imgs28.webp",
+        img: "/imgs/imgs28.webp",
         titel: "Смартфон Samsung Galaxy S25 Ultra 12/256ГБ Серый титан",
         price: "980",
         deskrip:

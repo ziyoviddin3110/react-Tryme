@@ -12,7 +12,7 @@ function Footer() {
     <footer>
       <div className="container">
         <div className="footer_imgs">
-        <NavLink onClick={scrollToTop} to="/">      <img src="/public/imgs/Logo PNG 1.svg" alt="" /></NavLink>
+        <NavLink onClick={scrollToTop} to="/">      <img src="/imgs/Logo PNG 1.svg" alt="" /></NavLink>
           <ul className="footer-list">
             <li>
               <NavLink to="/" onClick={scrollToTop} className="fotter-link">Home</NavLink>
